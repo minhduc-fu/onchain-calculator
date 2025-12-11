@@ -1,0 +1,11 @@
+[package]
+name = "onchain_calculator"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+Iota = { git = "https://github.com/iotaledger/iota.git", subdir = "crates/iota-framework/packages/iota-framework", rev = "devnet" }
+
+[addresses]
+onchain_calculator = "0x0"
+
