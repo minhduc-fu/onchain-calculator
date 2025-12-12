@@ -8,6 +8,8 @@ The dApp allows users to input two numbers and an operator (`+`, `-`, `×`, `÷`
 The calculation is executed **on-chain** by a Move contract, and the result is stored inside a `Calculation` object.
 
 ---
+## 📦 Deployed Contract Information
+- Package ID (Contract Address): 0x79b7453abe063fbc396bba3c125c9321fc2f3767af3884e4f2ca713c1c93c61d
 
 ## 🚀 Features
 
